@@ -6,8 +6,6 @@
   🚀 Semana OmniStack 11.0 ⚛
 </h4>
 <p align="center">
-  <img alt="GitHub language count" src="https://repository-images.githubusercontent.com/249491356/780a3180-7385-11ea-8994-775b8a6fdfd3">
-
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/DevFrach/be-the-hero">
   
   <a href="https://github.com/DevFrach/be-the-hero/commits/master">
